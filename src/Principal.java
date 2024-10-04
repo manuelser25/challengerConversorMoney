@@ -12,7 +12,7 @@ public class Principal {
         System.out.println("*** 5. Dolares a ==> Pesos Colombianos                            ***");
         System.out.println("*** 6. Pesos Colombianos a ==> Dolares                            ***");
         System.out.println("*** 7. Salir                                                      ***");
-        System.out.println("Elija una opción válida");
+        System.out.println("Elija una opción válida                                           ***");
         System.out.println("*********************************************************************");
     }
 }
